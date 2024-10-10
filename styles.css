@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(169, 198, 234);
+}
+body .page p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body .avengers{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .bluebox{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .common{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .levels{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .Heroes{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page{
+    background-color: white;
+    margin: 80px 200px;
+    border: 1px;
+    border-radius: 15px;
+}
+.page h1, h2{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+}
+/* .page .header{
+    margin: 125px 0;
+} */
+.page .header img{
+    margin: 40px 30px 0 78px;
+    width: 957px;
+    height: 549px;
+    border: 1px;
+    border-radius: 15px;
+}
+.page .avengers p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .bluebox{
+    color: white;
+    height: 200px;
+    margin: 20px 70px 0 75px;
+    background-color: rgb(28, 92, 148);
+    border: 1px;
+    border-radius: 15px;
+}
+.page .bluebox ul li{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    padding: 7px;
+}
+.page .bluebox h2{
+    padding-top: 20px;
+}
+.page .Heroes{
+    margin: 20px 70px 0 75px;
+}
+.page .Heroes ul li{
+    padding: 7px;
+}
+.page .common{
+    margin: 20px 70px 0 75px;
+}
+.page .common ol li{
+    padding: 7px;
+}
+.page .levels{
+    margin: 20px 70px 0 75px;
+}
+.page .levels table tr th, td{
+    border: 1px black solid;
+}
+.page .levels table th{
+    color: white;
+}
+.page .levels table tr:nth-child(1){
+    background-color: rgb(28, 92, 148);
+}
+.page .levels table td{
+    background-color: rgb(201, 204, 207);
+}
+.page .levels table{
+    text-align: center;
+    border-collapse: collapse;
+}
+.page .footer{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.page .footer .blueP p{
+    color: rgb(28, 92, 148);
+    font-family: Arial, Helvetica, sans-serif
+}
+.page .footer span a{
+    color: rgb(28, 92, 148);
+    text-decoration: none;
+}
